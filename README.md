@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Udacity_Project_6_Go_Ubiquitous
-Udacity Android wear project for Android Nanodegree
-=======
 Advanced Android Sample App
 ===================================
 
@@ -53,5 +49,3 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
-
->>>>>>> f73a138... feat: add files for wear project for sunshine
